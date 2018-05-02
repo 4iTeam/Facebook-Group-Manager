@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Group Manager by 4IT Community"
+    "message": "Tịch liêu"
   },
   "appDescription": {
     "message": "Extension for Admins"
@@ -14,6 +14,20 @@
   "blockUser": {
     "message": "Block user from group"
   },
+
+  "blockLike": {
+    "message": "Block users like this post"
+  },
+  "blockLove": {
+    "message": "Block users love this post"
+  },
+  "blockHaha": {
+    "message": "Block users haha this post"
+  },
+  "blockSad": {
+    "message": "Block users sad this post"
+  },
+
   "unblockUser": {
     "message": "Unblock user from group"
   },

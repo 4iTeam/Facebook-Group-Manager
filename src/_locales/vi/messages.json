@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Quản lý nhóm - 4IT Community"
+    "message": "Tịch liêu"
   },
   "appDescription": {
     "message": "Công cụ quản trị nhóm"
@@ -13,6 +13,18 @@
   },
   "blockUser": {
     "message": "Chặn người dùng khỏi nhóm"
+  },
+  "blockLike": {
+    "message": "Chặn tất cả những người Like bài này"
+  },
+  "blockLove": {
+    "message": "Chặn tất cả những người Love bài này"
+  },
+  "blockHaha": {
+    "message": "Chặn tất cả những người Haha bài này"
+  },
+  "blockSad": {
+    "message": "Chặn tất cả những người Sad bài này"
   },
   "unblockUser": {
     "message": "Bỏ chặn người dùng"
